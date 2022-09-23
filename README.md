@@ -14,3 +14,7 @@
 
 ## How To Run tests
 ##### We can run the tests using the test runner file for Cucumber which is located in the package runner with a file called TestRunner.java
+##### Or
+``` 
+    mvn test
+```
